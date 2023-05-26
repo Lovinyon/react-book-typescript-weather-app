@@ -9,4 +9,4 @@ React version 18
 
 `App.tsx`内のAPIのURLはweatherapiのアカウントで取得したものに変更してください。
 
-（2023年4月版）
+（2023年4月版）# react-book-typescript-weather-app
